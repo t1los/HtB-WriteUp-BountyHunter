@@ -12,6 +12,7 @@ We begin browsing and we are met with the following page:
 
 
 After that we start our gobuster scan.
+
 ![](https://i.imgur.com/np0H244.png)
 
 
