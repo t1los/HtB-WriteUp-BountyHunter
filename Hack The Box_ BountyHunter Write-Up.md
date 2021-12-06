@@ -1,4 +1,4 @@
-# ******Hack The Box: BountyHunter Write-Up
+# Hack The Box: BountyHunter Write-Up
 
 
 
